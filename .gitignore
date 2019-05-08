@@ -5,3 +5,6 @@ Challenge EY/data_train.csv
 Challenge EY/EYChallenge_03.csv
 Challenge EY/EYChallenge_01.csv
 Challenge EY/EYChallenge_02.csv
+*.tsv
+*.tmp
+*.tfevents
