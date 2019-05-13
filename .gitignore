@@ -9,3 +9,7 @@ Challenge EY/EYChallenge_02.csv
 *.tmp
 *.tfevents
 *.npy
+Challenge EY/XGB_tuned_02.pickle
+Challenge EY/XGB_tuned_02
+Challenge EY/XGB_tuned_01
+Challenge EY/users.pkl
