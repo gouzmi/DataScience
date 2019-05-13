@@ -8,3 +8,4 @@ Challenge EY/EYChallenge_02.csv
 *.tsv
 *.tmp
 *.tfevents
+*.npy
